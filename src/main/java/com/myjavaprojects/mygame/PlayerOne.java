@@ -4,6 +4,9 @@ public class PlayerOne {
     private String name;
     private String weapon;
     private int health;
+    private boolean canSwim;
+    
+    
 
     public PlayerOne(String name, String weapon, int health) {
         this.name = name;
@@ -66,6 +69,14 @@ public class PlayerOne {
     @Override
     public String toString() {
         return "PlayerOne: name -> " + name + ", weapon -> " + weapon + ", health -> " + health;
+    }
+
+    public boolean isCanSwim() {
+        return canSwim;
+    }
+
+    public void setCanSwim(boolean canSwim) {
+        this.canSwim = canSwim;
     }
 
     
