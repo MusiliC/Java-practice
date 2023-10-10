@@ -1,8 +1,8 @@
-package com.myjavaprojects.functionalprogramming.functionalapproach.consumer;
+package com.myjavaprojects.functionalprogramming.consumer;
 
 import java.util.function.BiConsumer;
 
-import com.myjavaprojects.functionalprogramming.functionalapproach.consumer._Consumer.Customer;
+import com.myjavaprojects.functionalprogramming.consumer._Consumer.Customer;
 
 public class _BiConsumer {
     public static void main(String[] args) {

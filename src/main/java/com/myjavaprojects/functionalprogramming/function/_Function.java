@@ -1,4 +1,4 @@
-package com.myjavaprojects.functionalprogramming.functionalapproach.function;
+package com.myjavaprojects.functionalprogramming.function;
 
 import java.util.function.Function;
 

@@ -1,4 +1,4 @@
-package com.myjavaprojects.functionalprogramming.functionalapproach.consumer;
+package com.myjavaprojects.functionalprogramming.consumer;
 
 import java.util.function.Consumer;
 

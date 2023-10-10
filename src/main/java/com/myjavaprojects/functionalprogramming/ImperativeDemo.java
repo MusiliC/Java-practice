@@ -1,4 +1,4 @@
-package com.myjavaprojects.functionalprogramming.functionalapproach;
+package com.myjavaprojects.functionalprogramming;
 
 import java.util.ArrayList;
 import java.util.List;
